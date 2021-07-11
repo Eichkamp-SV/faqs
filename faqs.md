@@ -1,14 +1,19 @@
-# Eichkamp FAQs
+# Eichkamp Information & FAQ
 
 Welcome to Eichkamp FAQ page! On this page, we provide some FAQs for new and old residents that can be really useful when moving in, or even if you used to live here for some time.
 
 This page is managed by the Eichkamp SV, the student-self-administration of the Eichkamp dorm. If you have any questions, feel free to contact us at eichkamp.sv@gmail.com!
 
-**[Go to the Map of Eichkamp](#Map-of-Eichkamp-dormitory)**
+## Links
+
+* **[FAQ Overview](#FAQ-Overview)**
+* **[Map of Eichkamp](#Map-of-Eichkamp-dormitory)**
+* **[Telegram Announcements Channel](https://t.me/joinchat/m3HWoS7Q_hQxYjUy)**
+* **[Eichkamp community groups](https://forms.gle/oHzzffdwopxoh39w6)**
 
 ![Eichkamp dormitory](https://i.imgur.com/6NCiXdI.jpg)
 
-## Overview
+## FAQ Overview
 
 * [How can I use the washing machines?](#How-can-I-use-the-washing-machines)
 * [How can I use Internet in Eichkamp?](#How-can-I-use-Internet-in-Eichkamp)
@@ -76,9 +81,9 @@ The SV is the student self administration of the dormitory. The current SV was n
 
 The caretakers / janitors are mainly responsible for the maintenance of the dormitory. If something breaks in your community kitchen or bathroom, you can contact them, also if something with the internet connection, heating, water or similar does not work. They are available during their office hours in their office at the back of house 15. Also you can contact them via email (wh.ek@stw.berlin) or phone: 
 
-0151 16600290 (Herr Bartholdi)
-0151 16600291 (Herr Schlüter)
-0151 16600287 (Herr Schulze)
+0151 16600290 (Herr Bartholdi)  
+0151 16600291 (Herr Schlüter)  
+0151 16600287 (Herr Schulze)  
 
 ### What can I do in case of an emergency (no water, heating, electricity, internet)?
 
@@ -115,7 +120,7 @@ Often there are **parcels lost or received by another person** instead of the ac
 
 If you find a letter in your postbox that is addressed to another person, you can either give it to the person directly or throw it in their postbox if you know them. If you don’t know them, you have to make sure it is sent back to the sender. To do so, just throw the letter into a postal box of Deutsche Post. If you want, you can write “Empfänger unbekannt” on the envelope before. If the letter was sent via some other carrier than Deutsche Post (e.g. pin Mail), you can give it back to the carrier. You are not allowed by law to open the letter or to throw it away!
 
-If you received a parcel for another person you don’t know, please join the Eichkamp Telegram group (link below) and ask if the person can pick up the parcel from you.
+If you received a parcel for another person you don’t know, please [join the Eichkamp Telegram group](https://forms.gle/oHzzffdwopxoh39w6) and ask if the person can pick up the parcel from you.
 
 ### What is the food truck?
 
@@ -126,7 +131,7 @@ You can also get a new MensaCard here if you don’t have one yet, and you can t
 
 ### How can I print or scan things in Eichkamp?
 
-At the moment, there is no place where everybody can print or scan things. Some people might have a private printer or scanner though. If you ask nicely in the Telegram group, maybe there is somebody who can help you out. Otherwise there are multiple options to print in the area: 
+At the moment, there is no place where everybody can print or scan things. Some people might have a private printer or scanner though. If you ask nicely [in the Telegram group](https://forms.gle/oHzzffdwopxoh39w6), maybe there is somebody who can help you out. Otherwise there are multiple options to print in the area: 
 
 * McPaper at Reichsstraße, near Theodor Heuss Platz
 * Postbank at Soorstraße, near Theodor Heuss Platz
@@ -177,7 +182,10 @@ Maybe we also provide historic material on the SV website in the future :)
 
 ### How to improve xxxx in Eichkamp?
 
-Contact the SV or become a member and get involved :) Our email is eichkamp.sv@gmail.com, and our Instagram is [@eichkamp.sv](https://instagram.com/eichkamp.sv). We look forward to your ideas!
+Contact the SV or become a member and get involved :)  
+Our email is eichkamp.sv@gmail.com, and our Instagram is [@eichkamp.sv](https://instagram.com/eichkamp.sv). 
+
+We look forward to your ideas!
 
 ## Map of Eichkamp dormitory
 
