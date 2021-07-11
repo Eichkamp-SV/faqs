@@ -2,14 +2,15 @@
 
 Welcome to Eichkamp FAQ page! On this page, we provide some FAQs for new and old residents that can be really useful when moving in, or even if you used to live here for some time.
 
-This page is managed by the Eichkamp SV, the student-self-administration of the Eichkamp dorm. If you have any questions, feel free to contact us at eichkamp.sv@gmail.com!
+This page is managed by the Eichkamp SV, the student-self-administration of the Eichkamp dorm. If you have any questions, feel free to contact us at eichkamp.sv@gmail.com or on Instagram [@eichkamp.sv](https://instagram.com/eichkamp.sv)!
 
 ## Links
 
 * **[FAQ Overview](#FAQ-Overview)**
 * **[Map of Eichkamp](#Map-of-Eichkamp-dormitory)**
+* **[Eichkamp SV Instagram](https://instagram.com/eichkamp.sv)**
 * **[Telegram Announcements Channel](https://t.me/joinchat/m3HWoS7Q_hQxYjUy)**
-* **[Eichkamp community groups](https://forms.gle/oHzzffdwopxoh39w6)**
+* **!! [Eichkamp community groups](https://forms.gle/oHzzffdwopxoh39w6) !!**
 
 ![Eichkamp dormitory](https://i.imgur.com/6NCiXdI.jpg)
 
@@ -74,7 +75,7 @@ The tutors are students who live in the dormitory and are here to help new resid
 
 There is also an extra tutor for the fitness room and the music room in the clubhouse. If you want to get access to the rooms, you can contact him via email: fitness.musik.tutor@gmail.com 
 
-The SV is the student self administration of the dormitory. The current SV was newly founded in November 2020. They consist of voluntary people living here, and they also can organize events, but can do even more than that, e.g. building up a bicycle workshop or running a bar. They also get access to some rooms, material and money to realize their ideas. If you are interested in volunteering for your dormitory, please contact us! We are always happy about new people joining us! You can contact the SV directly via email (eichkamp.sv@gmail.com) or via Instagram (@eichkamp.sv)
+The SV is the student self administration of the dormitory. The current SV was newly founded in November 2020. They consist of voluntary people living here, and they also can organize events, but can do even more than that, e.g. building up a bicycle workshop or running a bar. They also get access to some rooms, material and money to realize their ideas. If you are interested in volunteering for your dormitory, please contact us! We are always happy about new people joining us! You can contact the SV directly via email (eichkamp.sv@gmail.com) or via Instagram ([@eichkamp.sv](https://instagram.com/eichkamp.sv))
 
 
 ### What are the tasks of the caretakers? How to contact them?
