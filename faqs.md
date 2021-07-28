@@ -94,9 +94,10 @@ If there is an emergency with water, heating, electricity, internet while the ca
 <summary><strong>How can I open the front gate if it’s closed?</strong></summary>
 <p></p>
 
-There once was a phone number that you can call that automatically opens the gate. It seems that this number does not work anymore. If you own a private car, you can ask the caretaker for a chip card though. 
+There is a phone number you can call to open the gate instantly. For security, we do not share the number here publically, but you can [join our Telegram group](https://forms.gle/oHzzffdwopxoh39w6). The number is linked in the group description. Additionally, if you own a private car, you can ask the caretakers for a chip card.
 
-Notice that the gate opens inductively from the inside, so if you drag e.g. a magnetic bike over the area right behind the gate, it will open automatically. That also means that the gate always opens by itself, without further chip cards etc, if you want to drive from inside to the outside.
+Notice that the gate opens inductively from the inside, so if you drag e.g. a magnetic bike over the area right behind the gate, it will open automatically. That also means, if you want to drive from inside to the outside, the gate always opens automatically without further chip cards, etc.
+
 </details>
 
 ---
@@ -107,7 +108,7 @@ Notice that the gate opens inductively from the inside, so if you drag e.g. a ma
 
 There is a special tutor for the fitness room and the music room in the clubhouse. If you want to get access to the rooms, you can contact him via email: fitness.musik.tutor@gmail.com 
 
-**Note:** Due to the current Corona situation, the fitness and music rooms stay closed.
+**Note:** Due to the current Corona situation, the fitness and music rooms stay closed at the moment.
 </details>
 
 ---
@@ -151,7 +152,7 @@ If you received a parcel for another person you don’t know, please [join the E
 <summary><strong>What is the food truck?</strong></summary>
 <p></p>
 
-The food truck is an offer by studierendenWERK Berlin and it usually stays once a week in Eichkamp dormitory, but this may change in the future. It arrives at 11am and leaves at 2:30pm. You can buy food here, freshly made and ready-to-eat, or cold meals that you can warm up later. Additionally, there are salads, desserts, cake, some drinks, and ice cream in summer. 
+The food truck is an offer by studierendenWERK Berlin and it usually stays once a week in Eichkamp dormitory, but this may change in the future. It arrives at 11am and leaves at 2:30pm. You can buy food here, freshly made and ready-to-eat, or cold meals that you can warm up later. Additionally, there are salads, desserts, cake, some drinks, and ice cream in summer. You can look up the menu [at the STW website](https://www.stw.berlin/en/dining-facilities/foodtruck-mensa-ontheroad.html).
 
 You can also get a new MensaCard here if you don’t have one yet, and you can top up your MensaCard with cash bills. At the truck, you can pay with MensaCard only to get the cheap student price, if you can only pay without MensaCard (Girocard, credit card or Google Pay) you have to pay the more expensive guest price.
 </details>
@@ -178,9 +179,9 @@ Currently, the SV and other people are trying to implement a printing and scanni
 <summary><strong>What is the Bar? Is there any chance it will be open sometime?</strong></summary>
 <p></p>
 
-The bar is a part of the clubhouse, located on the ground floor. It was once open and runned by the old SV, however, it has been closed for some years now. The new SV has plans to re-open it once it is possible according to the covid-regulations.
+The bar is a part of the clubhouse, located on the ground floor. It was once open and runned by the old SV, however, it has been closed for some years now. 
 
-Currently, we are planning a recurring Covid-compliant outdoor bar event. Stay tuned!
+Currently, we are doing an outdoor Bar event every two weeks! Look out for information about the dates on the posters in Eichkamp and in the Telegram group :)
 </details>
 
 ---
@@ -211,11 +212,11 @@ Furthermore, the SV in Eichkamp wants to open the same kind of workshop directly
 
 You probably noticed the **stadium** right in front of the dormitory, the Mommsenstadion. Only a few people know that you can just go inside and use the area to workout! It is usually open to the public from around 7:30 am to around 21:30 pm. The hours can slightly change sometimes. If there is an event, the stadium is obviously closed for the public. 
 
-If you want to do sports lessons, you can use the advantage of the **TU sports centre** being right next to the dorm! There are courses offered primarily for students of Berlin universities. They are usually very affordable for students. You can look up their course program online.
+If you want to do sports lessons, you can use the advantage of the **TU sports centre** being right next to the dorm! There are courses offered primarily for students of Berlin universities. They are usually very affordable for students. You can [look up their course program online](https://www.tu-sport.de/).
 
 Close to the dormitory is also the **Teufelsberg and the Drachenberg**. The Teufelsberg is quite famous in Berlin and there is a big former listening device on top of it, now it’s mostly a ruin. Also there are some exhibitions or events sometimes, and sometimes you can get a drink. You have to pay a small entrance fee though. The Drachenberg is just a hill with a flat surface. You can go up to see the sunset, to have a great overview of the city, just to chill or to sled in winter.
 
-If you looked around the dormitory grounds a little bit, you may have noticed that there is a special house right adjacent to the Eichkamp dormitory, the so-called **Bonhoefferhaus** at Marienburger Allee. It was the family home of the famous anti-Nazi dissident Dietrich Bonhoeffer. Today it is kind of a museum and there are sometimes guided tours. You can inform yourself about it online.
+If you looked around the dormitory grounds a little bit, you may have noticed that there is a special house right adjacent to the Eichkamp dormitory, the so-called **Bonhoefferhaus** at Marienburger Allee. It was the family home of the famous anti-Nazi dissident Dietrich Bonhoeffer. Today it is kind of a museum and there are sometimes guided tours. You can [inform yourself about it online](https://www.bonhoeffer-haus-berlin.de/).
 </details>
 
 ---
