@@ -199,7 +199,7 @@ Every house (except houses 11 & 12) offers a bike storage room in the basement. 
 <summary><strong>How can I repair my bike?</strong></summary>
 <p></p>
 
-Apart from official (and expensive) repair services, such as Zweirad-Stadler, there is a self-service bike repair workshop at TU Berlin, called unirad ([http://unirad.blogsport.de/](http://unirad.blogsport.de/)).
+Apart from official (and expensive) repair services, such as Zweirad-Stadler, there is a self-service bike repair workshop at TU Berlin, called unirad ([http://unirad.blogsport.de/](http://unirad.blogsport.de/)). Something similar also exists at HU Berlin, called hubSCHRAUBER ([http://www.refrat.hu-berlin.de/hubschrauber/](http://www.refrat.hu-berlin.de/hubschrauber/))
 
 Furthermore, the SV in Eichkamp wants to open the same kind of workshop directly in Eichkamp! The room and some tools are already there, because the workshop already existed in the past and was run by the old SV. Stay tuned for upcoming announcements and contact the SV if you want to get involved!
 </details>
