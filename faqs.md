@@ -81,6 +81,24 @@ The caretakers / janitors are mainly responsible for the maintenance of the dorm
 
 ---
 
+
+<details>
+<summary><strong>Do I have to pay Rundfunkbeitrag?</strong></summary>
+<p></p>
+
+The studierendenWERK tells everybody who is renting a single room (no WG) to pay Rundfunkbeitrag on their own. WGs only have to pay the Rundfunkbeitrag once. 
+
+However, the [regulation that is stated in all publically available materials by the Beitragsservice](https://www.rundfunkbeitrag.de/welcome/englisch/students_and_apprentices/index_ger.html#i_live_in_a_student_hall_of_residence_do_i_have_to_pay) (the authority who is responsible for collecting the Rundfunkbeitrag) is different: It says that only rooms, who are directly connected to a public corridor are considered as separate flats and have to pay Rundfunkbeitrag. If your room is not connected to a public corridor (and another door is in between), then you can share the Rundfunkbeitrag among everybody on your floor. This is the case in some houses in Eichkamp, but not in all. In this case, it is also recommended for the other flatmates that don't pay the fee directly to register at Beitragsservice though and refer to the flatmate that already pays. This can avoid conflicts.
+
+Btw: The Beitragsservice has no capacities to come and check every single door constellation (also confirmed by an employee from Beitragsservice), so it's up to you and your flatmates how you want to handle the situation.
+
+More on that: https://rundfunkbeitrag.de
+
+
+</details>
+
+---
+
 <details>
 <summary><strong>What can I do in case of an emergency (no water, heating, electricity, internet)?</strong></summary>
 <p></p>
