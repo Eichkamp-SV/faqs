@@ -124,9 +124,11 @@ Notice that the gate opens inductively from the inside, so if you drag e.g. a ma
 <summary><strong>How can I use the fitness or the music room?</strong></summary>
 <p></p>
 
-There is a special tutor for the fitness room and the music room in the clubhouse. If you want to get access to the rooms, you can contact him via email: fitness.musik.tutor@gmail.com 
+There is a special tutor for the fitness room and the music room in the clubhouse. You can contact him via email: fitness.musik.tutor@gmail.com 
 
-**Note:** Due to the current Corona situation, the fitness and music rooms stay closed at the moment.
+If you want to get access to the fitness room, please fill in this form: https://forms.gle/SLHtYjDzWhKHstsDA
+    
+**Note:** The music room is unfortunately still closed at the moment but will hopefully back soon.
 </details>
 
 ---
