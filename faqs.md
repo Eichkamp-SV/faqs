@@ -1,5 +1,7 @@
 # Eichkamp Information & FAQ
 
+**Last update: 05.03.2022**
+
 Welcome to Eichkamp FAQ page! On this page, we provide some FAQs for new and old residents that can be really useful when moving in, or even if you used to live here for some time.
 
 This page is managed by the Eichkamp SV, the student-self-administration of the Eichkamp dorm. If you have any questions, feel free to contact us at eichkamp.sv@gmail.com or on Instagram [@eichkamp.sv](https://instagram.com/eichkamp.sv)!
@@ -196,12 +198,12 @@ Currently, the SV and other people are trying to implement a printing and scanni
 ---
 
 <details>
-<summary><strong>What is the Bar? Is there any chance it will be open sometime?</strong></summary>
+<summary><strong>What is the Bar and when is it open?</strong></summary>
 <p></p>
 
-The bar is a part of the clubhouse, located on the ground floor. It was once open and runned by the old SV, however, it has been closed for some years now. 
-
-Currently, we are doing an outdoor Bar event every two weeks! Look out for information about the dates on the posters in Eichkamp and in the Telegram group :)
+The bar is a part of the clubhouse, located on the ground floor. It was introduced and run by our predecessor SV.
+    
+In summer 2021, we reopened the bar, first organizing outdoor events and later also indoor partys. Please check https://eichkamp.rocks/events to have a look what is going on right now :)
 </details>
 
 ---
@@ -219,7 +221,7 @@ Every house (except houses 11 & 12) offers a bike storage room in the basement. 
 <summary><strong>How can I repair my bike?</strong></summary>
 <p></p>
 
-Apart from official (and expensive) repair services, such as Zweirad-Stadler, there is a self-service bike repair workshop at TU Berlin, called unirad ([http://unirad.blogsport.de/](http://unirad.blogsport.de/)). Something similar also exists at HU Berlin, called hubSCHRAUBER ([http://www.refrat.hu-berlin.de/hubschrauber/](http://www.refrat.hu-berlin.de/hubschrauber/))
+Apart from commercial (and expensive) repair services, such as Zweirad-Stadler, there is a self-service bike repair workshop at TU Berlin, called unirad ([http://unirad.blogsport.de/](http://unirad.blogsport.de/)). Something similar also exists at HU Berlin, called hubSCHRAUBER ([http://www.refrat.hu-berlin.de/hubschrauber/](http://www.refrat.hu-berlin.de/hubschrauber/)) and at FU Berlin, called FUrad ([https://furad.de/](https://furad.de/))
 
 Furthermore, the SV in Eichkamp wants to open the same kind of workshop directly in Eichkamp! The room and some tools are already there, because the workshop already existed in the past and was run by the old SV. Stay tuned for upcoming announcements and contact the SV if you want to get involved!
 </details>
