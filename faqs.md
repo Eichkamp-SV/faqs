@@ -1,6 +1,6 @@
 # Eichkamp Information & FAQ
 
-**Last update: 05.03.2022**
+**Last update: 03.04.2022**
 
 Welcome to Eichkamp FAQ page! On this page, we provide some FAQs for new and old residents that can be really useful when moving in, or even if you used to live here for some time.
 
