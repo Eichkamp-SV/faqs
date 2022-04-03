@@ -127,10 +127,18 @@ Notice that the gate opens inductively from the inside, so if you drag e.g. a ma
 <p></p>
 
 There is a special tutor for the fitness room and the music room in the clubhouse. You can contact him via email: fitness.musik.tutor@gmail.com 
+    
+Currently, only recovered or vaccinated people (2G) are allowed to use the fitness and music rooms.
 
 If you want to get access to the fitness room, please fill in this form: https://forms.gle/SLHtYjDzWhKHstsDA
     
-**Note:** The music room is unfortunately still closed at the moment but will hopefully back soon.
+If you want to get access to the music room, please fill in this form: https://forms.gle/zzHruJiiZafNPdmd6
+    
+The fitness/music tutor will send you an email to pick up your key when the caretakers are done  making it, which could take some time (4-6 weeks) depending on how busy they are.
+    
+The new key needs to be activated, go to house 9 or house 10 and hold your key against the reader (a black square near the doorbells at the entrance), it could take couple attempts to activate your key. You know it's activated when the beeping stops after 8-10 secs and then you have access for the next 24 hours, which means you have to activate the key every day you want to use the common room. The caretkaers are working on a better system.
+
+If th activation doesn't work, try another house and if nothing works, please go to the Hausmeister.
 </details>
 
 ---
@@ -139,9 +147,7 @@ If you want to get access to the fitness room, please fill in this form: https:/
 <summary><strong>How can I use the table tennis room?</strong></summary>
 <p></p>
 
-If the room is open, you can just go inside and play :)
-
-**Note:** Due to the current Corona situation, the table tennis room is currently closed.
+Currently, we are discussing how the re-opening of the table tennis room (big hall in the clubhouse) can be done. We will update this page once we have more information!
 </details>
 
 ---
