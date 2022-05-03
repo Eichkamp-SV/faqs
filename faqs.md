@@ -153,6 +153,15 @@ Currently, we are discussing how the re-opening of the table tennis room (big ha
 ---
 
 <details>
+<summary><strong>What is the garden and how to use it?</strong></summary>
+<p></p>
+
+We have a small garden between house 10 and 11 where people can plant their own plants, e.g. herbs, vegetables, chilis, and other things. Everything has to be maintained by the residents themselves. If you want to arrange a garden day or need tools (we have some), please use the [Telegram group](https://join.eichkamp.rocks) and join the respective Gardening subgroup afterwards :)
+</details>
+
+---
+
+<details>
 <summary><strong>How can I receive postal mails and parcels in Eichkamp? Is there a public parcel box?</strong></summary>
 <p></p>
 
@@ -218,7 +227,7 @@ In summer 2021, we reopened the bar, first organizing outdoor events and later a
 <summary><strong>How can I ensure my bike is protected from rain?</strong></summary>
 <p></p>
 
-Every house (except houses 11 & 12) offers a bike storage room in the basement. Normally, every resident of the house has access to the room with their normal key for the front door. Just try out which door fits your key :)
+Every house offers a bike storage room in the basement. Normally, every resident of the house has access to the room with their normal key for the front door. Just try out which door fits your key :)
 </details>
 
 ---
@@ -229,7 +238,7 @@ Every house (except houses 11 & 12) offers a bike storage room in the basement. 
 
 Apart from commercial (and expensive) repair services, such as Zweirad-Stadler, there is a self-service bike repair workshop at TU Berlin, called unirad ([http://unirad.blogsport.de/](http://unirad.blogsport.de/)). Something similar also exists at HU Berlin, called hubSCHRAUBER ([http://www.refrat.hu-berlin.de/hubschrauber/](http://www.refrat.hu-berlin.de/hubschrauber/)) and at FU Berlin, called FUrad ([https://furad.de/](https://furad.de/))
 
-Furthermore, the SV in Eichkamp wants to open the same kind of workshop directly in Eichkamp! The room and some tools are already there, because the workshop already existed in the past and was run by the old SV. Stay tuned for upcoming announcements and contact the SV if you want to get involved!
+Furthermore, the SV in Eichkamp wants to open the same kind of workshop directly in Eichkamp. The room and some tools are already there, because the workshop already existed in the past and was run by the old SV. Unfortunately, because of renovation of house 11 and 12, the rooms have to be used otherwise currently, so the project has to be postponed.
 </details>
 
 ---
