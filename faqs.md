@@ -1,10 +1,10 @@
 # Eichkamp Information & FAQ
 
-**Last update: 03.04.2022**
+**Last update: 08.01.2023**
 
 Welcome to Eichkamp FAQ page! On this page, we provide some FAQs for new and old residents that can be really useful when moving in, or even if you used to live here for some time.
 
-This page is managed by the Eichkamp SV, the student-self-administration of the Eichkamp dorm. If you have any questions, feel free to contact us at eichkamp.sv@gmail.com or on Instagram [@eichkamp.sv](https://instagram.com/eichkamp.sv)!
+This page is managed by the Eichkamp SV, the student-self-administration of the Eichkamp dorm. If you have any questions, feel free to contact us at eichkamp.sv@gmail.com or on Instagram [@eichkampsv](https://instagram.com/eichkampsv)!
 
 ## Links
 
@@ -61,24 +61,51 @@ The second way, which is highly recommended in terms of stability, reliability a
 <summary><strong>What is the SV and the tutors?</strong></summary>
 <p></p>
 
-The tutors are students who live in the dormitory and are here to help new residents and to organize events! They are employed by the STW and have consultation hours. If you want to know when they are, you can look at their door at house 15, in front of the postboxes! You can also reach the tutors via the email address tutor.eichkamp@stw.berlin.
+The tutors are students who live in the dormitory and are here to help new residents and to organize events! They are employed by the STW and have consultation hours. If you want to know when they are, you can look at their door at house 15, in front of the postboxes! You can also reach the tutors via the email address [tutor.eichkamp@stw.berlin](mailto:tutor.eichkamp@stw.berlin).
 
-There is also an extra tutor for the fitness room and the music room in the clubhouse. If you want to get access to the rooms, you can contact him via email: fitness.musik.tutor@gmail.com 
+There is also an extra tutor for the fitness room and the music room in the clubhouse. If you want to get access to the rooms, you can contact him via Telegram. Please [join our Telegram group](https://join.eichkamp.rocks) to find his contact.
 
-The SV is the student self administration of the dormitory. The current SV was newly founded in November 2020. They consist of voluntary people living here, and they also can organize events, but can do even more than that, e.g. building up a bicycle workshop or running a bar. They also get access to some rooms, material and money to realize their ideas. If you are interested in volunteering for your dormitory, please contact us! We are always happy about new people joining us! You can contact the SV directly via email (eichkamp.sv@gmail.com) or via Instagram ([@eichkamp.sv](https://instagram.com/eichkamp.sv))
+The SV is the student self administration of the dormitory. The current SV was newly founded in November 2020. They consist of voluntary people living here, and they also can organize events, but can do even more than that, e.g. building up a bicycle workshop or running a bar. They also get access to some rooms, material and money to realize their ideas. If you are interested in volunteering for your dormitory, please contact us! We are always happy about new people joining us! You can contact the SV directly via email (eichkamp.sv@gmail.com) or via Instagram ([@eichkampsv](https://instagram.com/eichkampsv))
 </details>
 
 ---
 
 <details>
-<summary><strong>What are the tasks of the caretakers? How to contact them?</strong></summary>
+<summary><strong>What is the administration? How to contact them?</strong></summary>
 <p></p>
 
-The caretakers / janitors are mainly responsible for the maintenance of the dormitory. If something breaks in your community kitchen or bathroom, you can contact them, also if something with the internet connection, heating, water or similar does not work. They are available during their office hours in their office at the back of house 15. Also you can contact them via email (wh.ek@stw.berlin) or phone: 
+There are different administration instances at studierendenWERK Berlin. 
 
-0151 16600290 (Herr Bartholdi)  
-0151 16600291 (Herr Schlüter)  
-0151 16600287 (Herr Schulze)  
+**Inventory managers:**
+    
+Working directly in the dormitory. Contact them if something breaks in your community area or if you have problems with e.g. internet, washing machine room, key coins, water supply or heating. You can also come to their office during their working hours (back of house 15).
+    
+- 0151 166 00 291 (Herr Schlüter)  
+- 0151 166 00 287 (Herr Schulze)  
+- 0151 170 12 051 (Frau Kalin) 
+- Email: [wh.ek@stw.berlin](wh.ek@stw.berlin)
+
+**Tenant support**:
+    
+If you need to clarify something about your personal contract, or your living conditions in the dormitory
+    
+- Frau Phillip ([H.Philipp@stw.berlin](H.Philipp@stw.berlin))
+- 030-93939-8284
+    
+**InfoCenter Wohnen**
+    
+If you have a general request about the Berlin dormitories or want to move within the dormitories
+    
+- 030 93939 8990
+- [wohnen@stw.berlin](wohnen@stw.berlin)
+  
+**Postal address** of the bigger housing administration instance:
+
+studierendenWERK Berlin  
+Abt. studentisches Wohnen  
+Franz-Mehring-Platz 3  
+10243 Berlin
+
 </details>
 
 ---
@@ -126,17 +153,17 @@ Notice that the gate opens inductively from the inside, so if you drag e.g. a ma
 <summary><strong>How can I use the fitness or the music room?</strong></summary>
 <p></p>
 
-There is a special tutor for the fitness room and the music room in the clubhouse. You can contact him via email: fitness.musik.tutor@gmail.com 
+There is a special tutor for the fitness room and the music room in the clubhouse. You can contact him via Telegram. For that, please first [join the Eichkamp Telegram group](https://join.eichkamp.rocks), you will find the subgroup for Fitness/Music and the tutor's contact there. 
     
-Currently, only recovered or vaccinated people (2G) are allowed to use the fitness and music rooms.
+**Please write to Khadim (tutor) the following things via DM:**
+    
+- **First and Last name**
+- **Room number**
+- **Coin number**
+- **which keys you want to receive (fitness, music or both)**
 
-If you want to get access to the fitness room, please fill in this form: https://forms.gle/SLHtYjDzWhKHstsDA
     
-If you want to get access to the music room, please fill in this form: https://forms.gle/zzHruJiiZafNPdmd6
-    
-The fitness/music tutor will send you an email to pick up your key when the caretakers are done  making it, which could take some time (4-6 weeks) depending on how busy they are.
-    
-The new key needs to be activated, go to house 9 or house 10 and hold your key against the reader (a black square near the doorbells at the entrance), it could take couple attempts to activate your key. You know it's activated when the beeping stops after 8-10 secs and then you have access for the next 24 hours, which means you have to activate the key every day you want to use the common room. The caretkaers are working on a better system.
+The key then needs to be activated, go to house 9 or house 10 and hold your key against the reader (a black square near the doorbells at the entrance), it could take couple attempts to activate your key. You know it's activated when the beeping stops after 8-10 secs and then you have access for the next 24 hours, which means you have to activate the key every day you want to use the common room. The caretakers are working on a better system.
 
 If th activation doesn't work, try another house and if nothing works, please go to the Hausmeister.
 </details>
@@ -285,7 +312,7 @@ Maybe we also provide historic material on the SV website in the future :)
 <p></p>
 
 Contact the SV or become a member and get involved :)  
-Our email is eichkamp.sv@gmail.com, and our Instagram is [@eichkamp.sv](https://instagram.com/eichkamp.sv). 
+Our email is eichkamp.sv@gmail.com, and our Instagram is [@eichkampsv](https://instagram.com/eichkampsv). 
 
 We look forward to your ideas!
 </details>
